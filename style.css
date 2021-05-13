@@ -1,0 +1,136 @@
+#index{
+  background-image: url(/Images/laptop.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#About{
+  background-color: rgb(53, 51, 51);
+  
+}
+#Books{
+  background-color:rgb(53, 51, 51) ;
+}
+nav{
+    padding-left: 60%;
+    height: 10%;
+   
+}
+/* a{
+    color:wheat;
+    text-decoration: none; 
+    float: left;
+    padding-right: 10%;
+    border-radius: 50px;
+    /* z-index: 99; */
+    /* margin-bottom: 20%;
+} */ */
+
+li {
+  text-decoration: none;
+}
+ul li{
+  display: inline;
+}
+a{
+  color: rgb(245, 240, 230);
+  padding-left: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #444;
+}
+
+
+p{
+  color:rgb(250, 248, 248);
+  
+}
+#paragraph{
+  font-size: 300%;
+  font-weight: bolder;
+  padding-top: 15%;
+  color:rgb(252, 247, 247);
+  padding-left: 30%;
+ 
+} 
+#about{
+  font-size: 150%;
+  padding-left: 40%;
+  text-decoration: underline white ;
+}
+span{
+  font-size: 30px;
+  font-weight: bold;
+  padding-right: 20%;
+  padding-left: 10%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#Mylife{
+  font-size: 18px;
+  padding-top:20% ;
+  text-align: center;
+}
+#input{
+  padding-bottom:30px ;
+}
+#image{
+  padding-top: 20%;
+}
+
+.column {
+  float: left;
+  width: 45.3%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+#back{
+  border-radius:70%;
+ width: 20%;
+ height: 20%;
+ /* bottom: 0%; */
+ /* margin-right: 5%; */
+ padding-left: 5%;
+ margin-top: -20%;
+}
+#para{
+  padding-top: 20%;
+  /* margin-left: 10px; */
+}
+.mylife{
+  /* padding-top: 2%; */
+  padding-left: 20%;
+  width:45%;
+  height: 5%;
+}
+.Mylife{
+  font-size: 30%;
+}
+#quotes{
+  text-align: center;
+
+}
+#Image{
+  padding-top: 10%;
+}
+.marriage{
+  /* border: 20px; */
+  background-color: papayawhip;
+  width: 500px;
+  height: 600px;
+  padding: 10px;
+  margin: 20px;
+  margin-left: 20%;
+  /* margin-top: 10%; */
+}
+.Blog{
+  padding-left: 20%;
+  padding-top: 5%;
+}
+h1{
+  text-align: center;
+}
